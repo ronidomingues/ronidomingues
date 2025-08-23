@@ -54,6 +54,20 @@
     <img align="center" alt="Roni-Postgree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
+##
+
+<div>
+    <a href="https://github.com/ronidomingues">
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/?username=ronidomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="51%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+##
+
+<div>
+    <a href="https://www.instagram.com/euronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ### 🚀 Sobre mim
 
@@ -74,12 +88,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 Um pouco das minhas contribuições
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronidomingues&show_icons=true&theme=tokyonight)](https://github.com/ronidomingues)
 
 ---
 
