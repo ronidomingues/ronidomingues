@@ -1,12 +1,63 @@
-## 👋 Olá, eu sou o Ronivaldo (ou só Roni)!
+## Olá! eu sou o Roni 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNISUAM) e Engenharia Elétrica (UFRJ).  
-💻 Apaixonado por programação, especialmente Python e tudo que envolve transformar ideias em código.
+- 🔭 Estou a procura de minha primeira experiência profissional na área
+- 🧑‍💻📊 Cursando Análise e Desenvolvimento de Sistemas - UNISUAM
+- 💡📐 Cursando Engenharia Elétrica - UFRJ
 
 ---
 
+## 🔥 Skills
+
+### Programming Languages
+<div style="display: inline_block"><br>
+  <img align="center" alt="Roni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="Roni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
+  <img align="center" alt="Roni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Roni-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
+
+### Markup Language
+
+<div style="display:inline_block"><br>
+    <img align="center" alt="Roni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+
+### Style Language
+
+<div style="display:inline_block"><br>
+    <img align="center" alt="Roni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+### Runtime
+
+<div style="display: inline_block"><br>
+    <!--<img align="center" alt="Roni-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">-->
+</div>
+
+### Libraries
+<div style="display: inline_block"><br>
+    <!--<img align="center" alt="Roni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
+    <!--<img align="center" alt="Roni-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">-->
+</div>
+
+### Frameworks
+<div style="display: inline_block"><br>
+    <img align="center" alt="Roni-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <!--<img align="center" alt="Roni-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">-->
+</div>
+
+### Relational Database
+
+<div style="display:inline_block"><br>
+    <img align="center" alt="Roni-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Roni-MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
+    <img align="center" alt="Roni-Postgree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+
 ### 🚀 Sobre mim
 
+- 💻 Apaixonado por programação, especialmente Python e tudo que envolve transformar ideias em código.
 - 👨‍💻 Gosto de trabalhar em soluções práticas, principalmente com **Python** (meu xodó da programação).
 - 📚 Já atuei como monitor ajudando colegas com lógica de programação e Computação I/II.
 - 🛠️ Tenho experiência com suporte técnico (níveis N1 a N3), manutenção de computadores e infraestrutura de TI em ambiente acadêmico.
