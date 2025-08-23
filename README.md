@@ -8,11 +8,9 @@
 <!-- GitHub Statistics -->
 <div>
     <a href="https://github.com/ronidomingues">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/?username=ronidomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <div>
+        <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/?username=ronidomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><!--theme=dracula-->
         <img width="51%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&layout=compact&langs_count=16&theme=dracula"/>
-        <img widht="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&show_icons=true&theme=gotham">
-    </div>
+        <!--<img width="0%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&show_icons=true&theme=dracula"><!--theme=gotham-->
     </a>
 </div>
 
