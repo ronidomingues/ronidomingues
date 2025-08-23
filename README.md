@@ -1,8 +1,18 @@
-## Olá! eu sou o Roni 👋
+## Hi! I'm Roni 👋
 
-- 🔭 Estou a procura de minha primeira experiência profissional na área
-- 🧑‍💻📊 Cursando Análise e Desenvolvimento de Sistemas - UNISUAM
-- 💡📐 Cursando Engenharia Elétrica - UFRJ
+- 🔭 I'm looking for my first professional experience in the development area
+- 🧑‍💻📊 Undergraduate in Systems Analysis and Development - UNISUAM
+- 💡📐 Undergraduate in Electrical Engineering - UFRJ
+
+<details>
+    <summary><strong>More About Me</strong></summary>
+    - 💻 I'm passionate about programming, especially Python, which was my first language, and everything that involves turning ideas into code.<br/>
+    - 👨‍💻 I like working on solutions that involve programming; thinking in code fascinates me.<br/>
+    - 📚 I worked as a tutor, where I helped colleagues with programming logic and Python programming in college courses, Computer Science I and II.<br/>
+    - 🛠️ I have experience with technical support (levels N1 to N3), computer maintenance and IT infrastructure, and ticket management with GLPI.<br/>
+    - 🔍 I'm always exploring new technologies, tools, and languages.<br/>
+    - 🤝 I'm part of the for_code academic league, where I learn more every day about projects, collaboration, and technical development.
+</details>
 
 ##
 <!-- GitHub Statistics -->
@@ -12,13 +22,6 @@
         <img width="51%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&layout=compact&langs_count=16&theme=dracula"/>
         <!--<img width="0%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&show_icons=true&theme=dracula"><!--theme=gotham-->
     </a>
-</div>
-
-##
-<!-- Social Links -->
-<div>
-    <a href="https://www.instagram.com/euronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 🔥 Skills
@@ -39,6 +42,11 @@
 <!-- Tools and Frameworks Used -->
 <div style="display: inline_block"><br>
     <img align="center" alt="Roni-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Roni-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+    <img align="center" alt="Roni-KaliLinux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg">
+    <img align="center" alt="Roni-ArchLinux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
+    <img align="center" alt="Roni-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
+    <img align="center" alt="Roni-MACOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
     <img align="center" alt="Roni-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
     <img align="center" alt="Roni-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Roni-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -54,13 +62,14 @@
     <img align="center" alt="Roni-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
     <img align="center" alt="Roni-MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
     <img align="center" alt="Roni-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Roni-Proxmox" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-original.svg">
     <!--<img align="center" alt="Roni-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">-->
     <!--<img align="center" alt="Roni-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">-->
     <!--<img align="center" alt="Roni-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">-->
 </div>
 
 ### Libraries
-
+<!-- Libraries that I am constantly improving -->
 <div style="display: inline_block"><br>
     <img align="center" alt="Roni-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
     <img align="center" alt="Roni-MatplotLib" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
@@ -69,23 +78,11 @@
     <!--<img align="center" alt="Roni-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">-->
 </div>
 
-### 🚀 Sobre mim
+##
+<!-- Social Links -->
+<div align="center">
+    <a href="https://www.instagram.com/euronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-- 💻 Apaixonado por programação, especialmente Python e tudo que envolve transformar ideias em código.
-- 👨‍💻 Gosto de trabalhar em soluções práticas, principalmente com **Python** (meu xodó da programação).
-- 📚 Já atuei como monitor ajudando colegas com lógica de programação e Computação I/II.
-- 🛠️ Tenho experiência com suporte técnico (níveis N1 a N3), manutenção de computadores e infraestrutura de TI em ambiente acadêmico.
-- 🔍 Estou sempre explorando novas tecnologias, ferramentas e linguagens.
-- 🤝 Faço parte da liga acadêmica **for_code**, onde estou aprendendo cada dia mais sobre projetos, colaboração e desenvolvimento técnico.
-
----
-
-### ☕ Bora trocar uma ideia?
-
-- ✉️ E-mail: ronidomingues.ard@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ronidomingues)  
-- 🧠 Sempre aberto a colaborações, feedbacks, projetos em equipe e, claro, boas conversas sobre tecnologia!
-
----
-
-> “O código é poesia. E cada bug, uma chance de escrever algo ainda melhor.” – Eu mesmo 😄
+##
