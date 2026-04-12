@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Roni 👋
 
-- 🔭 Estou buscando minha primeira experiência profissional na área de desenvolvimento
-- 🧑‍💻📊 Graduando em Análise e Desenvolvimento de Sistemas - UNISUAM
-- 💡📐 Graduado em Matemática Aplicada - IM/UFRJ
+- 🔭 Estou buscando minha primeira experiência profissional na área de desenvolvimento Full-Stack
+- 🧑‍💻📊 Graduando do 2º ano de Análise e Desenvolvimento de Sistemas - UNISUAM
+- 💡📐 Graduando do 1º período de Matemática Aplicada - IM/UFRJ
 
 <details>
     <summary><strong>👨‍💻 Sobre mim</strong></summary>
