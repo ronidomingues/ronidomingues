@@ -1,27 +1,35 @@
-## Hi! I'm Roni 👋
+## Olá! Eu sou o Roni 👋
 
-- 🔭 I'm looking for my first professional experience in the development area
-- 🧑‍💻📊 Undergraduate in Systems Analysis and Development - UNISUAM
-- 💡📐 Undergraduate in Electrical Engineering - UFRJ
+- 🔭 Estou buscando minha primeira experiência profissional na área de desenvolvimento
+- 🧑‍💻📊 Graduando em Análise e Desenvolvimento de Sistemas - UNISUAM
+- 💡📐 Graduado em Matemática Aplicada - IM/UFRJ
 
 <details>
-    <summary><strong>More About Me</strong></summary>
-    - 💻 I'm passionate about programming, especially Python, which was my first language, and everything that involves turning ideas into code.<br/>
-    - 👨‍💻 I like working on solutions that involve programming; thinking in code fascinates me.<br/>
-    - 📚 I worked as a tutor, where I helped colleagues with programming logic and Python programming in college courses, Computer Science I and II.<br/>
-    - 🛠️ I have experience with technical support (levels N1 to N3), computer maintenance and IT infrastructure, and ticket management with GLPI.<br/>
-    - 🔍 I'm always exploring new technologies, tools, and languages.<br/>
-    - 🤝 I'm part of the for_code academic league, where I learn more every day about projects, collaboration, and technical development.
+    <summary><strong>👨‍💻 Sobre mim</strong></summary>
+    - 💻 Eu sou apaixonado por programação, especialmente Python, que foi minha primeira linguagem, e tudo que envolve transformar ideias em código.<br/>
+    - 👨‍💻 Eu gosto de trabalhar em soluções que envolvem programação; pensar em código me fascina.<br/>
+    - 📚 Eu trabalhei como tutor, onde ajudei colegas com lógica de programação e programação em Python em disciplinas universitárias, Ciência da Computação I e II.<br/>
+    - 🛠️ Eu tenho experiência com suporte técnico (níveis N1 a N3), manutenção de computadores e infraestrutura de TI, e gestão de tickets com GLPI.<br/>
+    - 🔍 Eu estou sempre explorando novas tecnologias, ferramentas e linguagens.<br/>
+    - 🤝 Eu sou diretor de projetos em uma liga acadêmica - for_code, onde aprendo mais todos os dias sobre projetos, colaboração e desenvolvimento técnico.
 </details>
 
 ##
-<!-- GitHub Statistics -->
+<!-- GitHub Statistics
 <div>
     <a href="https://github.com/ronidomingues">
         <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/?username=ronidomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><!--theme=dracula-->
         <img width="51%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&layout=compact&langs_count=16&theme=dracula"/>
-        <!--<img width="0%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&show_icons=true&theme=dracula"><!--theme=gotham-->
+        <img width="0%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&show_icons=true&theme=dracula"><!--theme=gotham-->
     </a>
+</div> -->
+
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/ronidomingues">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronidomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronidomingues&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"/>
+  </a>
 </div>
 
 ## 🔥 Skills
@@ -81,8 +89,8 @@
 ##
 <!-- Social Links -->
 <div align="center">
-    <a href="https://www.instagram.com/euronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/andradasdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+---
