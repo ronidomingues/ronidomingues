@@ -16,11 +16,10 @@
 
 ## 📊 Estatísticas
 
-<!-- GitHub Stats -->
-![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronidomingues&theme=tokyonight)
+<!-- ![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronidomingues&theme=tokyonight)
 ![Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronidomingues&theme=tokyonight)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronidomingues&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronidomingues&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronidomingues&theme=tokyonight) -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronidomingues&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronidomingues&theme=tokyonight" />
