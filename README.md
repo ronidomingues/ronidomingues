@@ -14,24 +14,6 @@
     - 🤝 Eu sou diretor de projetos em uma liga acadêmica - for_code, onde aprendo mais todos os dias sobre projetos, colaboração e desenvolvimento técnico.
 </details>
 
-##
-<!-- GitHub Statistics
-<div>
-    <a href="https://github.com/ronidomingues">
-        <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/?username=ronidomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><!--theme=dracula-->
-        <img width="51%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&layout=compact&langs_count=16&theme=dracula"/>
-        <img width="0%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&show_icons=true&theme=dracula"><!--theme=gotham-->
-    </a>
-</div> -->
-
-<!-- GitHub Stats -->
-<div align="center">
-  <a href="https://github.com/ronidomingues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronidomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronidomingues&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"/>
-  </a>
-</div>
-
 ## 🔥 Skills
 
 ### Languages
