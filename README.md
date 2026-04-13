@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Roni Andrade</h1>
-<h3 align="center">Desenvolvedor Full-Stack | Desenvolvedor Mobile | JavaScript | Python | PHP | SQL | Excel | Helpdesk | Matemática Aplicada na UFRJ | Análise e Desenvolvimento de Sistemas na UNISUAM</h3>
+<h3 align="center">Desenvolvedor Full-Stack | Desenvolvedor Mobile | Helpdesk | Matemática Aplicada na UFRJ | Análise e Desenvolvimento de Sistemas na UNISUAM</h3>
 
 ---
 
@@ -14,19 +14,17 @@
 <details>
     <summary> Mais sobre mim...
     </summary>
-    - 💻 Sou apaixonado por programação, em especial pela linguagem Python, que foi minha primeira, e tudo que envolve transformar ideias em código.<br/>
-    - 👨‍💻 Eu gosto de trabalhar em soluções que envolvem programação, pensar em código me fascina.<br/>
-    - 📚 Eu trabalhei como tutor, onde ajudei colegas com lógica de programação e programação em Python em disciplinas universitárias, Ciência da Computação I e II.<br/>
-    - 🛠️ Eu tenho experiência com suporte técnico , manutenção de computadores, infraestrutura de TI e gestão de tickets com GLPI.<br/>
-    - 🔍 Eu estou sempre explorando novas tecnologias, ferramentas e linguagens.<br/>
+    <ul>
+        <li>💻 Sou apaixonado por programação, em especial pela linguagem Python, que foi minha primeira, e tudo que envolve transformar ideias em código.</li>
+        <li>👨‍💻 Eu gosto de trabalhar em soluções que envolvem programação, pensar em código me fascina.</li>
+        <li>📚 Eu trabalhei como tutor, onde ajudei colegas com lógica de programação e programação em Python em disciplinas universitárias, Ciência da Computação I e II.</li>
+        <li>🛠️ Eu tenho experiência com suporte técnico , manutenção de computadores, infraestrutura de TI e gestão de tickets com GLPI.</li>
+        <li>🔍 Eu estou sempre explorando novas tecnologias, ferramentas e linguagens.</li>
+    </ul>
 </details>
 
 ## 📊 Estatísticas do GitHub
 
-<!-- ![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronidomingues&theme=tokyonight)
-![Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronidomingues&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronidomingues&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronidomingues&theme=tokyonight) -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronidomingues&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronidomingues&theme=tokyonight" />
@@ -34,9 +32,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronidomingues&theme=tokyonight" />
 </div>
 
-## 🔥 Skills
+## 🧠 Hard Skills
 
-### Backend
+### ⚙️ Back-end
 <!-- - #### **Linguagens de Programação:** -->
 
 ![PHP](https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=777BB4)
@@ -65,7 +63,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-ffffff?style=for-the-badge&logo=mongoose&logoColor=8c0707) -->
 <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=f89c3f) -->
 
-### Frontend
+### 🎨 Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![Semantic Web](https://img.shields.io/badge/Semantic%20Web-ffffff?style=for-the-badge&logo=semantic-web&logoColor=335ea3)
@@ -86,7 +84,7 @@
 ![Material Design](https://img.shields.io/badge/Material%20Design-ffffff?style=for-the-badge&logo=materialdesign&logoColor=000000)
 ![Material Design Icons](https://img.shields.io/badge/Material%20Design%20Icons-2196F3?style=for-the-badge&logo=materialdesignicons&logoColor=white) -->
 
-### Dados
+### 📈 Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=396b94)
@@ -100,7 +98,7 @@
 <!-- ![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=c73632)
 ![GraphQL](https://img.shields.io/badge/GraphQL-ffffff?style=for-the-badge&logo=graphql&logoColor=e2089b) -->
 
-### Testes
+### 🧪 Testes
 
 ![Pytest](https://img.shields.io/badge/Pytest-ffffff?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 ![Selenium](https://img.shields.io/badge/Selenium-ffffff?style=for-the-badge&logo=selenium&logoColor=07b507)
@@ -109,7 +107,7 @@
 <!-- ![Jest](https://img.shields.io/badge/Jest-ffffff?style=for-the-badge&logo=jest&logoColor=c3192c) -->
 <!-- ![Puppeteer](https://img.shields.io/badge/Puppeteer-ffffff?style=for-the-badge&logo=puppeteer&logoColor=08daa6) -->
 
-### DevOps
+### 🛠️ DevOps
 
 ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=f05539)
 ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)
@@ -137,14 +135,14 @@
 ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-cd2868?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white) -->
 <!-- ![Fedora](https://img.shields.io/badge/Fedora-ffffff?style=for-the-badge&logo=fedora&logoColor=55a5db) -->
 
-### Design
+### 💡 Design
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-65aa0d?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-ff9d07?style=for-the-badge&logo=adobeillustrator&logoColor=300000)
 ![Inkscape](https://img.shields.io/badge/Inkscape-ffffff?style=for-the-badge&logo=inkscape&logoColor=black)
 
-### Outras ferramentas
+### 🧰 Outras ferramentas
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=ff703d)
@@ -170,7 +168,7 @@
 <!-- ![CMake](https://img.shields.io/badge/CMake-ffffff?style=for-the-badge&logo=cmake&logoColor=black) -->
 <!-- ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=black) -->
 
-### Metodologias ágeis
+### 🔄 Metodologias ágeis
 
 ![Scrum](https://img.shields.io/badge/Scrum-a54cb2?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-33C3CA?style=for-the-badge&logo=kanban&logoColor=white)
