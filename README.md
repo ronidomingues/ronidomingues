@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Roni Andrade</h1>
-<h3 align="center">Desenvolvedor Full-Stack | Desenvolvedor Mobile | Helpdesk | Matemática Aplicada na UFRJ | Análise e Desenvolvimento de Sistemas na UNISUAM</h3>
+<h3 align="center">Desenvolvedor Full-Stack | Desenvolvedor Mobile | Helpdesk | Matemática Aplicada - IM/UFRJ | Análise e Desenvolvimento de Sistemas - UNISUAM</h3>
 
 ---
 
