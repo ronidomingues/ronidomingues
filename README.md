@@ -153,7 +153,9 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![NVM](https://img.shields.io/badge/NVM-F4DD4B?style=for-the-badge&logo=nvm&logoColor=black)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-84B6E4?style=for-the-badge&logo=chocolatey&logoColor=8f5230)
+![Winget](https://img.shields.io/badge/Winget-84B6E4?style=for-the-badge&logo=winget&logoColor=8f5230)
 ![Rclone](https://img.shields.io/badge/Rclone-ffffff?style=for-the-badge&logo=rclone&logoColor=73cbf2)
+![Rsync](https://img.shields.io/badge/Rsync-ffffff?style=for-the-badge&logo=rsync&logoColor=000000)
 ![FileZilla](https://img.shields.io/badge/FileZilla-ffffff?style=for-the-badge&logo=filezilla&logoColor=be0707)
 ![ngrok](https://img.shields.io/badge/ngrok-ffffff?style=for-the-badge&logo=ngrok&logoColor=1629a1)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-000000?style=for-the-badge&logo=obs-studio&logoColor=white)
@@ -183,10 +185,13 @@
 ## 🌍 Onde me encontrar
 
 <div align="center">
-    <a href="https://wa.me/5521998412932" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2317C964?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://orcid.org/0009-0006-2565-802X" target="_blank"><img src="https://img.shields.io/badge/-ORCID-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
+    <a href="http://lattes.cnpq.br/9541036989153739" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
     <a href="mailto:ronidomingues@poli.ufrj.br"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/andradasdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ronidomingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://discord.com/users/ronidomingues#0001" target="_blank"><img src="https://img.shields.io/badge/-Discord-%232C2F33?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/5521998412932" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2317C964?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://dev.to/ronidomingues" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-%23000000?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
     <a href="https://github.com/ronidomingues" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
