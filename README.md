@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Roni Andrade</h1>
-<h3 align="center">Desenvolvedor Full-Stack Junior | Analista Junior</h3>
+<h3 align="center">Analista Júnior | Desenvolvedor Full-Stack Júnior</h3>
 
 ---
 
