@@ -141,11 +141,15 @@ rsync, Windows Server, suporte N1–N3 com GLPI.
 
 ---
 
-## Estatísticas
+## GitHub em números
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ronidomingues&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronidomingues&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronidomingues&theme=tokyonight" alt="Resumo do perfil" />
+</div>
+
+<div align="center">
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronidomingues&theme=tokyonight" alt="Repositórios por linguagem" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronidomingues&theme=tokyonight" alt="Linguagens mais usadas em commits" />
 </div>
 
 ---
