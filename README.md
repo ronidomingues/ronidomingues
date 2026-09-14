@@ -17,7 +17,6 @@
 
 ## Sobre
 
-<<<<<<< HEAD
 Trabalho onde o software **já existe**: entendo o sistema em produção, planejo a
 mudança, executo e documento — sem derrubar o que já funcionava.
 
@@ -115,14 +114,6 @@ O lado do meu trabalho que não é código:
 ![Proxmox](https://img.shields.io/badge/Proxmox-e57000?style=flat-square&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-737376?style=flat-square&logo=vmware&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-c12545?style=flat-square&logo=apache&logoColor=white)
-=======
-- 💼 Atualemente atuando como Estagiário em Análise e Desenvolvimento de Sistemas na DGOM - Diretoria de Gestão Orçamentária da Maria do Brasil
-- 👨‍💻 Também, sou **Diretor de Projetos da [for_code](https://www.instagram.com/forcodeufrj)** - Liga acadêmica vinculada a Escola de Química(EQ) da [UFRJ](https://ufrj.br/)
-- 🏥 Experiência em **Gestão de Projetos e Pessoas**, além de forte experiência em Suporte Técnico em TI (níveis N1 a N3);
-- 🔭 Em busca de experiências na área de desenvolvimento Full-Stack;
-- 🧑‍💻 Graduando do 2º ano de Análise e Desenvolvimento de Sistemas - UNISUAM;
-- 📐 Graduando do 1º período de Matemática Aplicada - IM/UFRJ;
->>>>>>> origin/main
 
 <details>
 <summary>Também já trabalhei com…</summary>
