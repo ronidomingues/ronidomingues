@@ -1,60 +1,69 @@
 <h1 align="center">Roni Andrade</h1>
-<h3 align="center">Formando em ADS · Desenvolvimento de sistemas e gestão de projetos</h3>
 
 <p align="center">
-  ADS (UNISUAM, 2027) + Matemática Aplicada (IM/UFRJ) · Rio de Janeiro, Brasil
+  <b>Formando em ADS · Desenvolvimento de sistemas e gestão de projetos</b><br>
+  Rio de Janeiro, Brasil
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronidomingues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ronidomingues.ard@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://lattes.cnpq.br/9541036989153739"><img src="https://img.shields.io/badge/Lattes-1a5b9c?style=for-the-badge&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0006-2565-802X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
-  <a href="https://github.com/andradasdev"><img src="https://img.shields.io/badge/Andrada's%20Dev-121011?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ronidomingues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ronidomingues.ard@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="http://lattes.cnpq.br/9541036989153739"><img src="https://img.shields.io/badge/Lattes-1a5b9c?style=for-the-badge" alt="Lattes"></a>
+  <a href="https://orcid.org/0009-0006-2565-802X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://github.com/andradasdev"><img src="https://img.shields.io/badge/Andrada's%20Dev-121011?style=for-the-badge&logo=github&logoColor=white" alt="Andrada's Dev"></a>
 </p>
 
 ---
 
 ## Sobre
 
-Trabalho onde o software **já existe**: entendo o sistema em produção, planejo a
-mudança, executo e documento — sem derrubar o que já funcionava.
+A maior parte do software do mundo já está escrita. Eu trabalho nessa parte:
+entender um sistema que já roda, planejar a mudança, executar e documentar — sem
+derrubar o que funcionava.
 
-- 💼 **Estagiário em Desenvolvimento de Sistemas na Marinha do Brasil** (DGOM) —
-  manutenção evolutiva de sistema em produção, novas funcionalidades e
-  documentação técnica
-- 🤖 **Desenvolvimento assistido por IA** com Claude Code — a ferramenta acelera
-  o código; especificar, revisar e validar continua sendo meu
-- 🧭 **Diretor de Projetos da [for_code](https://www.instagram.com/forcodeufrj)** —
-  liga acadêmica da Escola de Química da UFRJ: projetos internos, processos
-  seletivos, capacitações e hackathons
-- 🏗️ Mantenedor da **[Andrada's Dev](https://github.com/andradasdev)** — gestão de
-  projetos e desenvolvimento de sistemas, do backlog ao deploy
-- 🎓 **Formando em ADS** (UNISUAM, conclusão em 2027) e **2º período de
-  Matemática Aplicada** (IM/UFRJ)
-- 🔭 Buscando a primeira oportunidade efetiva em **desenvolvimento, análise de
-  sistemas ou gestão de projetos**
+É o que faço hoje como **estagiário de desenvolvimento de sistemas na Marinha do
+Brasil**: manutenção evolutiva de um sistema em produção, funcionalidades novas e
+a documentação técnica de cada alteração. Desenvolvo com apoio de IA
+(**Claude Code**), o que acelera o código e empurra o peso do trabalho para onde
+ferramenta nenhuma substitui alguém — especificar o problema, definir o critério
+de aceite, revisar e validar contra o sistema real.
 
-> Mudar um sistema que já roda é controle de mudanças: escopo, impacto,
+Do outro lado, sou **Diretor de Projetos da for_code**, liga acadêmica da Escola
+de Química da UFRJ, onde respondo pelos projetos internos, pelos processos
+seletivos, pelas capacitações e pela participação da liga em hackathons.
+
+> Mudar um sistema que já roda **é** controle de mudanças: escopo, impacto,
 > execução, documentação. Dirigir uma carteira de projetos é o mesmo ciclo, com
-> mais gente e prazo maior. É a mesma competência em duas escalas.
+> mais gente e prazo maior. São duas escalas da mesma competência.
+
+## Agora
+
+| | |
+|---|---|
+| 💼 | Estagiário em Desenvolvimento de Sistemas — **Marinha do Brasil** (DGOM) |
+| 🧭 | Diretor de Projetos — **[for_code](https://www.instagram.com/forcodeufrj)**, liga acadêmica EQ/UFRJ |
+| 🏗️ | Mantenedor da **[Andrada's Dev](https://github.com/andradasdev)** — do backlog ao deploy |
+| 🎓 | **Formando em ADS** (UNISUAM, 2027) · **2º período de Matemática Aplicada** (IM/UFRJ) |
+| 🔭 | Buscando a primeira oportunidade efetiva em desenvolvimento, análise de sistemas ou gestão de projetos |
 
 > A matemática me dá o modelo, ADS me dá o sistema, e a gestão de projetos
-> garante que ele chegue a quem precisa — e é a interseção que pretendo levar ao
+> garante que ele chegue a quem precisa. É a interseção que pretendo levar ao
 > mestrado e ao doutorado.
 
 ---
 
-## Projetos em destaque
+## Projetos
 
-| Projeto | O que é | Stack |
+Seis projetos que resolvem problemas que eu tinha de verdade.
+
+| Projeto | O que resolve | Stack |
 |---|---|---|
-| **[md2book](https://github.com/ronidomingues/md2book)** | Converte uma pasta de Markdown em livro completo em LaTeX/PDF — capa, sumário, referências cruzadas. Sem Pandoc, sem dependências externas. | Python, LaTeX |
-| **[dpgen](https://github.com/ronidomingues/dpgen)** · [demo](https://andradasdev.github.io/dpgen/) | Gerador determinístico de senhas com Argon2id. Nada é armazenado: a senha é recalculada. Roda inteiro no navegador, com documentação criptográfica completa. | TypeScript, Argon2id |
-| **[latexkit](https://github.com/ronidomingues/latexkit)** · [npm](https://www.npmjs.com/package/latexkit) | `create-vite` para LaTeX: gera e compila projetos acadêmicos ABNT em um comando. Publicado no npm, com CI. | Node.js, LaTeX, Docker |
-| **[lastro](https://github.com/ronidomingues/lastro)** | Catálogo de serviços Docker de apoio ao desenvolvimento, com menu de terminal para subir, configurar e derrubar cada um sob demanda. | Python, Docker |
-| **[mysql-capacitation](https://github.com/ronidomingues/mysql-capacitation)** · [material](https://andradasdev.github.io/sql/) | Capacitação de MySQL que planejei e ministrei na Semana de Engenharia Química da UFRJ: guia, slides e ambiente Docker. | MySQL, LaTeX, Docker |
-| **[po-trail](https://github.com/ronidomingues/po-trail)** | Minha base de gestão de projetos: TAP, planejamento, riscos, matriz de comunicação, Scrum e o papel do Product Owner. | Gestão de Projetos |
+| **[md2book](https://github.com/ronidomingues/md2book)** | Escrevi um curso em Markdown e precisava dele impresso. Vira livro em LaTeX/PDF — capa, sumário, referências cruzadas. Sem Pandoc e sem dependência nenhuma além da biblioteca padrão. | `Python` `LaTeX` |
+| **[dpgen](https://github.com/ronidomingues/dpgen)** · [demo](https://andradasdev.github.io/dpgen/) | Senha que não fica guardada em lugar nenhum: é recalculada a partir da senha-mestra com Argon2id. Roda inteiro no navegador, offline. A pasta `docs/` explica do "o que é um hash" até a análise criptográfica. | `TypeScript` `Argon2id` |
+| **[latexkit](https://github.com/ronidomingues/latexkit)** · [npm](https://www.npmjs.com/package/latexkit) | O que o `create-vite` faz pelo front-end, ele faz pelo LaTeX: gera o projeto ABNT e compila o PDF em um comando, sem decorar `pdflatex → bibtex → pdflatex`. Publicado no npm, com CI. | `Node.js` `LaTeX` `Docker` |
+| **[lastro](https://github.com/ronidomingues/lastro)** | Um compose por serviço e um menu de terminal para subir, configurar e derrubar cada um — sem precisar lembrar onde está nada. | `Python` `Docker` |
+| **[mysql-capacitation](https://github.com/ronidomingues/mysql-capacitation)** · [material](https://andradasdev.github.io/sql/) | Capacitação de MySQL que planejei e ministrei na Semana de Engenharia Química da UFRJ: 2 horas cronometradas em blocos, guia, slides e ambiente Docker. | `MySQL` `LaTeX` `Docker` |
+| **[po-trail](https://github.com/ronidomingues/po-trail)** | Minha base de gestão de projetos: TAP, planejamento, riscos, matriz de comunicação, Scrum e o papel do Product Owner. | `Gestão de Projetos` |
 
 ---
 
@@ -62,20 +71,20 @@ mudança, executo e documento — sem derrubar o que já funcionava.
 
 O lado do meu trabalho que não é código:
 
-- **Planejamento e entrega** — escopo, cronograma, riscos, status periódico,
-  atas e controle de mudanças
-- **Capacitações que conduzi** — [MySQL (SEQ/UFRJ)](https://github.com/ronidomingues/mysql-capacitation)
-  e [Git e GitHub](https://github.com/ronidomingues/github-capacitation): do
+- **Planejar e entregar** — escopo, cronograma, riscos, status periódico, atas e
+  controle de mudanças
+- **Capacitações que conduzi** — [MySQL na SEQ/UFRJ](https://github.com/ronidomingues/mysql-capacitation)
+  e [Git e GitHub](https://github.com/ronidomingues/github-capacitation), do
   desenho do escopo ao material publicado
 - **Estudo contínuo** — [po-trail](https://github.com/ronidomingues/po-trail),
   com resumos de PMBOK, Scrum e Lean Startup
 
-![Scrum](https://img.shields.io/badge/Scrum-a54cb2?style=flat-square&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-33C3CA?style=flat-square&logo=kanban&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-a54cb2?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-33C3CA?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-f5a623?style=flat-square&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-f5a623?style=flat-square)
 
 ---
 
@@ -101,12 +110,12 @@ O lado do meu trabalho que não é código:
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4d77cf?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-396b94?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-6fbdeb?style=flat-square&logo=sqlite&logoColor=white)
 
-**Infra**
+**Infraestrutura**
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-d80e55?style=flat-square&logo=debian&logoColor=white)
@@ -118,9 +127,11 @@ O lado do meu trabalho que não é código:
 <details>
 <summary>Também já trabalhei com…</summary>
 
+<br>
+
 HTML5, CSS3, Bootstrap, jQuery, PWA, Node.js/Express, Prisma, MongoDB, MariaDB,
 Pytest, Selenium, PlantUML, Figma, Inkscape, Vercel, cPanel, OpenVPN, Rclone,
-rsync, Windows Server, suporte N1–N3 com GLPI.
+rsync, Windows Server e suporte N1–N3 com GLPI.
 
 </details>
 
@@ -155,7 +166,10 @@ rsync, Windows Server, suporte N1–N3 com GLPI.
 ---
 
 <p align="center">
-  <b>Formando em ADS, buscando a primeira oportunidade efetiva em desenvolvimento, análise de sistemas ou gestão de projetos.</b><br>
+  <b>Formando em ADS, buscando a primeira oportunidade efetiva em desenvolvimento,<br>análise de sistemas ou gestão de projetos.</b>
+</p>
+
+<p align="center">
   📩 <a href="mailto:ronidomingues.ard@gmail.com">ronidomingues.ard@gmail.com</a> ·
   💼 <a href="https://www.linkedin.com/in/ronidomingues/">linkedin.com/in/ronidomingues</a>
 </p>
