@@ -62,7 +62,7 @@ Sete projetos que resolvem problemas que eu tinha de verdade.
 | **[dpgen](https://github.com/ronidomingues/dpgen)** · [demo](https://andradasdev.github.io/dpgen/) | Senha que não fica guardada em lugar nenhum: é recalculada a partir da senha-mestra com Argon2id. Roda inteiro no navegador, offline. A pasta `docs/` explica do "o que é um hash" até a análise criptográfica. | `TypeScript` `Argon2id` |
 | **[latexkit](https://github.com/ronidomingues/latexkit)** · [npm](https://www.npmjs.com/package/latexkit) | O que o `create-vite` faz pelo front-end, ele faz pelo LaTeX: gera o projeto ABNT e compila o PDF em um comando, sem decorar `pdflatex → bibtex → pdflatex`. Publicado no npm, com CI. | `Node.js` `LaTeX` `Docker` |
 | **[lastro](https://github.com/ronidomingues/lastro)** | Um compose por serviço e um menu de terminal para subir, configurar e derrubar cada um — sem precisar lembrar onde está nada. | `Python` `Docker` |
-| **[mysql-capacitation](https://github.com/ronidomingues/mysql-capacitation)** · [material](https://andradasdev.github.io/sql/) | Capacitação de MySQL que planejei e ministrei na Semana de Engenharia Química da UFRJ: 2 horas cronometradas em blocos, guia, slides e ambiente Docker. | `MySQL` `LaTeX` `Docker` |
+| **[mysql-training](https://github.com/ronidomingues/mysql-training)** · [material](https://andradasdev.github.io/sql/) | Capacitação de MySQL que planejei e ministrei na Semana de Engenharia Química da UFRJ: 2 horas cronometradas em blocos, guia, slides e ambiente Docker. | `MySQL` `LaTeX` `Docker` |
 | **[kit-do-pm](https://github.com/forcode-ufrj/kit-do-pm)** | A for_code precisava de um padrão único para gerenciar projetos. Montei a trilha de PM da liga: 34 modelos de documentos (PDF preenchível, Word e Excel com fórmulas de PERT, caminho crítico e valor agregado) na ordem de uso, do TAP ao encerramento, e um manual autoral para cada um, com base no PMBOK. | `Gestão de Projetos` `PMBOK` `Python` `LaTeX` |
 | **[po-trail](https://github.com/ronidomingues/po-trail)** | Minha base de gestão de projetos: TAP, planejamento, riscos, matriz de comunicação, Scrum e o papel do Product Owner. | `Gestão de Projetos` |
 
@@ -77,8 +77,8 @@ O lado do meu trabalho que não é código:
   manuais, com os 15 essenciais destacados e trilhas por tamanho de projeto
 - **Planejar e entregar** — escopo, cronograma, riscos, status periódico, atas e
   controle de mudanças
-- **Capacitações que conduzi** — [MySQL na SEQ/UFRJ](https://github.com/ronidomingues/mysql-capacitation)
-  e [Git e GitHub](https://github.com/ronidomingues/github-capacitation), do
+- **Capacitações que conduzi** — [MySQL na SEQ/UFRJ](https://github.com/ronidomingues/mysql-training)
+  e [Git e GitHub](https://github.com/ronidomingues/github-training), do
   desenho do escopo ao material publicado
 - **Estudo contínuo** — [po-trail](https://github.com/ronidomingues/po-trail),
   com resumos de PMBOK, Scrum e Lean Startup
